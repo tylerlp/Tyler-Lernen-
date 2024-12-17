@@ -18,6 +18,15 @@ operator
 
 
 
+Compile: Sometimes when we compile, we want to give the output executable file a specific name. To do so, the compile command is slightly different. We still need to write g++ and the file name in the 
+Preview: Docs A terminal emulator is a program that allows users to run commands that are processed by the computer.
+terminal
+. After that, there should be -o and then the name that you want to give to the executable file:
+
+Execute: To execute the new machine code file, all you need to do is type ./ and the machine code file name in the terminal:
+
+
+
 
 
 
