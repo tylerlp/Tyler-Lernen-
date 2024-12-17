@@ -1,7 +1,9 @@
 /*
 https://www.codecademy.com
 
-
+Compile and Execute
+g++ hello.cpp -o hello
+./hello
 
 std::cout is the “character output stream”. It is pronounced “see-out”.
 
@@ -10,7 +12,7 @@ std::cout is the “character output stream”. It is pronounced “see-out”.
 Preview: Docs C++ supports different types of operators such as arithmetic, relational, and logical operators.
 operator
  that comes right after it.
-
+ 
 "Hello World!\n" is what’s being outputted here. You need double quotes around text. The \n is a special character that indicates a new line.
 
 ; is a punctuation that tells the computer that you are at the end of a statement. It is similar to a period in a sentence.
@@ -103,4 +105,4 @@ Execute: To execute the new machine code file, all you need to do is type ./ and
 
 
 
-*/ 
+*/

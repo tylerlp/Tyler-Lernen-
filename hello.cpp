@@ -3,17 +3,13 @@ Hier kommen die ersten codes hin mit der aufgabe immer :) */
 
 
 
-/* 
 #include <iostream>
 
 int main() {
   
-  std::cout << "Hello World!  \n";
+  std::cout << "Hello World!"<< std::endl;
 
-}
-
-
-*/
+}  
 
 /*
 Aufgbe 1 
@@ -26,7 +22,7 @@ Instead of displaying those two lines in the output, edit the code so that we ou
 7 8 9 10
 */ 
 
-
+/*
 #include <iostream>
 
 int main() 
@@ -39,11 +35,11 @@ int main()
   
 }
 
-/* Funktioniert auf https://www.codecademy.com  */
+Funktioniert auf https://www.codecademy.com  
 
 
 
-/* Aufgabe 2 
+Aufgabe 2 
 
 Before we move on, let’s write a letter to your future self.
 
@@ -54,7 +50,7 @@ Name and date.
 
 
 
-*/
+
 
 #include <iostream>
 
@@ -73,4 +69,6 @@ int main()
   
 }
 
-/* Funktioniert auf https://www.codecademy.com  */
+Funktioniert auf https://www.codecademy.com  
+
+*/
