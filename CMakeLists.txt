@@ -33,3 +33,5 @@ add_subdirectory(${CMAKE_BINARY_DIR}/googletest-src
 add_executable(test_hello test/test_hello.cpp)
 target_link_libraries(test_hello gtest_main)
 add_test(NAME test_hello COMMAND test_hello)
+
+# i need help in this type of Programierung 
